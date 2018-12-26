@@ -5,5 +5,4 @@ result_author/
 result_fig/
 *.jpg
 pretrain/runs/
-*.mat
-
+result_*/
