@@ -2,8 +2,8 @@
 models/
 result/
 result_author/
-result_fig
+result_fig/
 *.jpg
 pretrain/runs/
-result_*
+*.mat
 
