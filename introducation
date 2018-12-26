@@ -1,0 +1,10 @@
+attmask2-conv1&loss: conv1+nonlocal\no_se\200VID数据集150epoch、参考20181015的experient3
+(pymdnet-vot-attmask2-conv1&loss-1018.pth)
+attmask2-conv1&loss_2: conv1+nonlocal\no_se\700VID数据集100epoch、参考20181015的experient4
+(pymdnet-vot-attmask2-conv1&loss3-1019.pth)
+
+attmask2-conv1&se3&loss(3)_2: conv1+nonlocal\se3\700VID100EPOCH 1015的experient5
+(pymdnet-vot-attmask2-conv1&se3&loss-1020.pth)
+
+attmask2-conv1&se3&loss3_3: conv1+nonlocal\se3\700VID100EPOCH 1018的experiment6
+pymdnet-vot-attmask2-conv1&se3&loss3-1022.pth
